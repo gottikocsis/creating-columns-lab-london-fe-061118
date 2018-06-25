@@ -27,7 +27,6 @@ body, html {
 .large{
   width: 300%;
   height: 300%;
-  margin: auto;
 }
 
 .container, h1 {
